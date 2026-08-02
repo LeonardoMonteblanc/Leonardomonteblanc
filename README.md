@@ -29,66 +29,12 @@ struct Developer {
 
 };
 ```
-
 ---
-
-# 🚀 Currently Building
-
-### 🌳 AVL Simulator
-
-Interactive educational software focused on visualizing AVL Tree operations and balancing algorithms.
-
-**Current Topics**
-
-- AVL Trees
-- Data Structures
-- Algorithms
-- Interactive Visualization
-- C
-- JavaScript
-
----
-## 🗺️ Journey
-
 <p align="center">
-  <img src="[assets/journey.png](https://github.com/LeonardoMonteblanc/Leonardomonteblanc/blob/main/journey.png?raw=true)" width="100%" alt="Developer Journey"/>
+  <img src="https://github.com/LeonardoMonteblanc/Leonardomonteblanc/blob/main/journey.png?raw=true" width="100%" alt="Developer Journey"/>
 </p>
 
 ---
 
-# 🛠 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
-
-### Data
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://cdn.simpleicons.org/pandas/150458" height="48"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" height="48"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,vscode" />
-
-</div>
-
----
 
 > *"Building software that helps people understand how software works."*

@@ -51,7 +51,7 @@ Interactive educational software focused on visualizing AVL Tree operations and 
 ## 🗺️ Journey
 
 <p align="center">
-  <img src="assets/journey.png" width="100%" alt="Developer Journey"/>
+  <img src="[assets/journey.png](https://github.com/LeonardoMonteblanc/Leonardomonteblanc/blob/main/journey.png?raw=true)" width="100%" alt="Developer Journey"/>
 </p>
 
 ---
